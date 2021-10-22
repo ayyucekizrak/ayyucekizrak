@@ -6,7 +6,7 @@
 
 * ✨ Check my [medium blog](https://medium.com/@ayyucekizrak) its both English and Turkish.
 * 🎧 I am addicted to music that’s why I also shares playlists on [Spotify](https://open.spotify.com/user/ayyucekizrak?si=f6b31d8e001f4c73). 
-* 🌱 I love research, learn and share. 
+* 🌱 I love researching, learning and sharing. 
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ayyucekizrak&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
